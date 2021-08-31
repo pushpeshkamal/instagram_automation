@@ -1,0 +1,16 @@
+2021-08-30 13:15:54,900 - instabot version: 0.117.0 (bot) - INFO - Instabot version: 0.117.0 Started
+2021-08-30 13:15:54,901 - instabot version: 0.117.0 (bot) - DEBUG - Bot imported from /Users/pushpesh/Library/Python/3.8/lib/python/site-packages/instabot/bot/bot.py
+2021-08-30 13:16:20,823 - instabot version: 0.117.0 (bot) - INFO - Instabot version: 0.117.0 Started
+2021-08-30 13:16:20,827 - instabot version: 0.117.0 (bot) - DEBUG - Bot imported from /Users/pushpesh/Library/Python/3.8/lib/python/site-packages/instabot/bot/bot.py
+2021-08-30 13:16:20,830 - instabot version: 0.117.0 (api_login) - INFO - Not yet logged in starting: PRE-LOGIN FLOW!
+2021-08-30 13:16:21,060 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: accounts/get_prefill_candidates/ returned response: <Response [200]>
+2021-08-30 13:16:21,277 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: qe/sync/ returned response: <Response [200]>
+2021-08-30 13:16:21,482 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: launcher/sync/ returned response: <Response [200]>
+2021-08-30 13:16:21,706 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: accounts/contact_point_prefill/ returned response: <Response [200]>
+2021-08-30 13:16:21,910 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: accounts/login/ returned response: <Response [400]>
+2021-08-30 13:16:21,910 - instabot version: 0.117.0 (api) - DEBUG - Responsecode indicates error; response content: b'{"message":"Invalid Parameters","status":"fail","error_type":"missing_parameters"}'
+2021-08-30 13:16:21,911 - instabot version: 0.117.0 (api) - ERROR - Request returns 400 error!
+2021-08-30 13:16:21,913 - instabot version: 0.117.0 (api) - INFO - Instagram's error message: Invalid Parameters
+2021-08-30 13:16:21,915 - instabot version: 0.117.0 (api) - INFO - Error type: missing_parameters
+2021-08-30 13:16:21,917 - instabot version: 0.117.0 (api) - ERROR - Failed to login go to instagram and change your password
+2021-08-30 13:16:21,918 - instabot version: 0.117.0 (api) - INFO - Username or password is incorrect.
