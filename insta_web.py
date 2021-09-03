@@ -18,8 +18,8 @@ driver = webdriver.Chrome(ChromeDriverManager().install(), options=opts)
 driver.get("https://www.instagram.com")
 
 #credentials of your instagram
-username = "techcartels.dots"
-pasw = "soontobefamous"
+username = "username"
+pasw = "password"
 
 # paving the way to the next page
 
