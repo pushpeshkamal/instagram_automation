@@ -33,7 +33,8 @@ note -
 
 ### For using automation of Instagram
 
-Refer [documentation for developers](https://instagrambot.github.io/docs/en/For_developers.html) for other codes you can use
+Refer [documentation for developers](https://instagrambot.github.io/docs/en/For_developers.html) for other codes you can use, also
+[examples](https://github.com/ohld/igbot)
 
 note -
 
