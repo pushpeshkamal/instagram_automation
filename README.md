@@ -8,6 +8,13 @@
 * allows you to automate instagram with tools
 * also you don't get targetted advertisement experience
 
+### Demo
+
+![image not working](instagram-web.png)
+
+* left highlights the coded version
+* right highlights the existing version
+
 <h1 align='center'> PROJECT : </h1>
 
 ## 💫 insta_web.py
