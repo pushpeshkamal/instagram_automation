@@ -1,5 +1,9 @@
 # Instagram_solved
 
+```
+UPDATE
+Instagram has finally changed a major redesign for desktop sites, so this solution has been implemented by instagram. Thanks for supporting this intiative
+```
 ## Solving the problems faced by people using instagram on devices other than mobile
 
 ### This project aims to solve the two major problems faced by web users
