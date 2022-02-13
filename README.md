@@ -2,7 +2,7 @@
 
 ```
 UPDATE
-Instagram has finally changed a major redesign for desktop sites, so this solution has been implemented by instagram. Thanks for supporting this intiative
+Instagram has finally changed a major redesign for desktop sites, so this solution has been implemented by instagram, except for the fact that the targetted advertisement is still what differentiates, so if you want to use a ads free experience you can use the project. Thanks for supporting this intiative
 ```
 ## Solving the problems faced by people using instagram on devices other than mobile
 
