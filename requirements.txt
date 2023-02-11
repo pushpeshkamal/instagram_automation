@@ -30,7 +30,7 @@ imageio-ffmpeg==0.4.5
 iniconfig==1.1.1
 instabot==0.117.0
 ipykernel==6.2.0
-ipython==7.26.0
+ipython==8.10.0
 ipython-genutils==0.2.0
 jedi==0.18.0
 joblib==1.0.1
